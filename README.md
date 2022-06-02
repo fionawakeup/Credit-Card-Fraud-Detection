@@ -8,7 +8,7 @@ Baseline machine Learning models include:
 ### Gaussian Naive Bayes
 
 ## Data Explotary Analysis
-#### checked the distribution of all 28 features. I checked 
+* checked the distribution of all 28 features. I checked 
 
 ## Data preprocessing
 I used correlation matrix to pick features. Based on the figure below, there are no duplicate features. All data should be considered.
