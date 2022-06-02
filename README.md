@@ -7,6 +7,8 @@ Baseline machine Learning models include:
 * Stochastic Gradient Descent
 * Gaussian Naive Bayes
 
+The dataset contains 280,000+ transactions with labels and each transaction has 28 features. 
+
 ## Data Explotary Analysis
 * Checked distribution of all 28 features. 
 * Checked imbalanced dataset. 0.18% are fraudulent transactions. 
