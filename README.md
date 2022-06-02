@@ -19,14 +19,14 @@ Baseline machine Learning models include:
 * Normalization
 
 ## Machine Learning Modeling
-* To prevent overfitting, I implemented dropout layers. 
-* Used binary crossentropy as loss function. 
-* Used Precision, Recall, and AUC as evaluation metrics
+* To prevent overfitting, I implemented dropout layers in Neural Network. 
+* Used binary crossentropy as loss function in Neural Network. 
+* Used Precision, Recall, and AUC as evaluation metrics.
 * class_weight argument in the model to deal with imbalanced dataset. 
 * To handle imbalanced dataset in baseline machine learning models:
-  * Used resample from Sklearn to upsample minority
-  * Used resample from Sklearn to downsample majority 
-  * Generated synthetic samples by SMOTE from imblearn
+  * Used resample from Sklearn to upsample minority.
+  * Used resample from Sklearn to downsample majority. 
+  * Generated synthetic samples by SMOTE from imblearn.
 
 ## Prediction results
 ![ff0fa37210f74e88e58af6ca61fe9b7](https://user-images.githubusercontent.com/55510330/171550351-17c077e9-6e8f-42d5-bfed-8ce382eae4c1.png)
