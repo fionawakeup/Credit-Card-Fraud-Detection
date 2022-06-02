@@ -28,3 +28,5 @@ Baseline machine Learning models include:
   * Used resample from Sklearn to downsample majority 
   * Generated synthetic samples by SMOTE from imblearn
 
+## Prediction results
+![ff0fa37210f74e88e58af6ca61fe9b7](https://user-images.githubusercontent.com/55510330/171550351-17c077e9-6e8f-42d5-bfed-8ce382eae4c1.png)
