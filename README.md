@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection with Neural Network and Machine Learning models
 In this project, I built a Neural Network to detect credit card fraudulent transactions. Classic Machine Learning models are implemented as baseline models in this study. 
 Baseline machine Learning models include:
 * Logistic Regression
