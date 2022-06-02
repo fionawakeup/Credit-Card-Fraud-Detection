@@ -12,7 +12,7 @@ Baseline machine Learning models include:
 * Checked imbalanced dataset. 0.18% are fraudulent transactions. 
 
 ## Data preprocessing
-* Used correlation matrix to pick features. As shown the plot below, there are no duplicate features. All data should be considered.
+* Used correlation matrix to pick features. As shown the plot below, there are no duplicate features, so all data should be considered.
 ![image](https://user-images.githubusercontent.com/55510330/171545684-54e19fd4-d875-46a4-b6f9-01aa92de8802.png)
 
 * Train test split
